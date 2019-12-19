@@ -1,5 +1,6 @@
-# mysite
-as portfolio
-[Link](https://tkm.blue)
+# memorize
 
-な〜んかつくるのかったりぃなあ.3.
+
+[Link](https://ravie403.github.io/memorize)
+
+得た知見と翻訳のメモ
