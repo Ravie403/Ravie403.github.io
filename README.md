@@ -6,3 +6,4 @@ Licence: [CC-By 3.0](http://creativecommons.org/licenses/by/3.0/)
 ## Contents
 - [JSのこと](./JavaScript/)
 - [Nimのこと](./Nim/)
+- [Scalaのこと](./Scala)
