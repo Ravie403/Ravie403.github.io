@@ -5,3 +5,4 @@ JavaScriptに関するもの
 
 - [Googleのスタイルガイドを訳したもの](./styleguide/)
 - [three.jsのこと](./threejs/)
+- [AmazonChimeSDKのこと](./amazon-chime/)
