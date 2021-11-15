@@ -1,5 +1,6 @@
-# memorize
-得た知見と翻訳のメモ [GitHubPages](https://ravie403.github.io)
+# About
+得た知見と翻訳のメモ  
+[GitHubPages](https://ravie403.github.io)
 
 ## Contents
 - [JSのこと](./JavaScript/)
