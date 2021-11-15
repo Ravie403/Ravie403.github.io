@@ -3,8 +3,7 @@
 
 ## Contents
 - [JSのこと](./JavaScript/)
-- [Nimのこと](./Nim/)
-- [Scalaのこと](./Scala/)
+
 
 ドキュメントのライセンスが違うなどの例外を除き、記事は[CC-BY3.0](http://creativecommons.org/licenses/by/3.0)の元記述され、例外の場合はそのライセンスを記述する。
 
